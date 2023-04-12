@@ -3,14 +3,14 @@
     "museums": [ 
         {
             "id": "M001",
-            "version": 6,
+            "version": 7,
             "name": "San Cassiano",
             "location" : "San Cassiano",
             "coordinates": [10.618205578513539, 44.041767007381594]
         },
         {
             "id": "M002",
-            "version": 1,
+            "version": 4,
             "name": "Benabbio",
             "location" : "Benabbio",
             "coordinates": [10.603375652061544, 43.99854668885396]
