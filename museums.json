@@ -3,7 +3,7 @@
     "museums": [ 
         {
             "id": "M001",
-            "version": 7,
+            "version": 8,
             "name": "San Cassiano",
             "location" : "San Cassiano",
             "coordinates": [10.618205578513539, 44.041767007381594]
