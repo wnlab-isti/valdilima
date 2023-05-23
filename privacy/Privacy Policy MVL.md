@@ -12,9 +12,7 @@ Multimedia contents such as artwork’s description and artworks images are prov
 ## Data Treatments
 The application implements one single data treatment.
 - Scope: To implement a museum’s guide designed to automatically detect the proximity between visitors and museum’s artworks by exploiting the Bluetooth technology.
-- Data Analysed: The MVL application does not locally store or analyse any personal data. The MVL application downloads museums digital contents (such as images and descriptions) from a remote server hosted by GitHub. The remote server used for downloading the contents might log for security reasons and for a limited period, some personal information such as the IP address of the smartphone/tablet running the MVL application. The privacy policy of GitHub is available at [this link](
-https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#what-information-github-collects
-Third-party)
+- Data Analysed: The MVL application does not locally store or analyse any personal data. The MVL application downloads museums digital contents (such as images and descriptions) from a remote server hosted by GitHub. The remote server used for downloading the contents might log for security reasons and for a limited period, some personal information such as the IP address of the smartphone/tablet running the MVL application. The privacy policy of GitHub is available at [this link](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#what-information-github-collectsThird-party)
 
 ## Software Components
 The MVL application is developed with the React Native Framework. The application includes the following third-party libraries:
