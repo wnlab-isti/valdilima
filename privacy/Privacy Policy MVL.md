@@ -16,16 +16,17 @@ The application implements one single data treatment.
 
 ## Software Components
 The MVL application is developed with the React Native Framework. The application includes the following third-party libraries:
-•	react-native-localize
-•	react-i18next
-•	i18next
-•	react-native-fs
-•	react-native-device-info
-•	react-native-bluetooth-state-manager
-•	react-native-zip-archive
-•	@react-native-community/netinfo
-•	react-native-kontaktio
-•	react-native-image-slider-banner
+- react-native-localize
+- react-i18next
+- i18next
+- react-native-fs
+- react-native-device-info
+- react-native-bluetooth-state-manager
+- react-native-zip-archive
+- @react-native-community/netinfo
+- react-native-kontaktio
+- react-native-image-slider-banner
+- @react-native-async-storage/async-storage
 
 
 ## Retention of Your Personal Data
