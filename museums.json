@@ -1,9 +1,9 @@
 {
-    "version": 3,
+    "version": 2,
     "museums": [ 
         {
             "id": "M002",
-            "version": 5,
+            "version": 7,
             "name": "Benabbio",
             "location" : "Benabbio",
             "coordinates": [10.603375652061544, 43.99854668885396]
